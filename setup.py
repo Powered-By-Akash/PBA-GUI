@@ -15,7 +15,7 @@ setup(
     url="https://github.com/Powered-By-Akash/PBA-GUI",
     project_urls={
         "Organization": "https://github.com/Powered-By-Akash",
-        "Website": "https://poweredbyakash.com",
+        "Website": "https://poweredbyakash.in",
         "Source": "https://github.com/Powered-By-Akash/PBA-GUI",
         "Tracker": "https://github.com/Powered-By-Akash/PBA-GUI/issues",
     },

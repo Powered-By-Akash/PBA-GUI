@@ -7,7 +7,7 @@ name = "pba-gui"
 version = "2025.1.0"
 authors = [
   { name = "Akash Tanna", email = "Poweredbyakash@gmail.com" },
-  { name = "Powered By Akash", email = "support@poweredbyakash.com" },
+  { name = "Powered By Akash", email = "support@poweredbyakash.in" },
 ]
 description = "Python Tkinter GUI Framework & Visual Component Library for PBA Desktop Applications & Engineering Systems"
 readme = "README.md"
@@ -25,5 +25,6 @@ keywords = ["tkinter", "gui", "desktop", "pba-gui", "visual-components", "python
 
 [project.urls]
 "Homepage" = "https://github.com/Powered-By-Akash/PBA-GUI"
+"Website" = "https://poweredbyakash.in"
 "Organization" = "https://github.com/Powered-By-Akash"
 "Bug Tracker" = "https://github.com/Powered-By-Akash/PBA-GUI/issues"
