@@ -172,7 +172,7 @@ PBA-GUI/
 - **Organization:** [Powered By Akash (PBA)](https://github.com/Powered-By-Akash)
 - **Founder & Lead Architect:** [Akash Tanna](https://github.com/akashtanna)
 - **Location:** Gujarat, India
-- **Official Website:** [poweredbyakash.in](https://poweredbyakash.in)
+- **Official Website:** [poweredbyakash.in](https://www.poweredbyakash.in/)
 
 ---
 

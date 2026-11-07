@@ -25,6 +25,6 @@ keywords = ["tkinter", "gui", "desktop", "pba-gui", "visual-components", "python
 
 [project.urls]
 "Homepage" = "https://github.com/Powered-By-Akash/PBA-GUI"
-"Website" = "https://poweredbyakash.in"
+"Website" = "https://www.poweredbyakash.in/"
 "Organization" = "https://github.com/Powered-By-Akash"
 "Bug Tracker" = "https://github.com/Powered-By-Akash/PBA-GUI/issues"
